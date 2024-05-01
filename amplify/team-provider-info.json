@@ -17,6 +17,12 @@
       },
       "auth": {
         "amplifyreactc7173f22": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2sc77ovrs43kx",
+          "type": "manual"
+        }
       }
     }
   }
